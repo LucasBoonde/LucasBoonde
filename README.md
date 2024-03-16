@@ -7,3 +7,7 @@
 - 💻 Looking for collaborations with companies that seek an innovative future
 
 ### Reachable at:
+
+---
+
+<img align="left" alt="LucasBoonde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucasBoonde&show_icons=true&hide_border=true" />
