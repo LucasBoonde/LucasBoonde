@@ -11,3 +11,5 @@
 ---
 
 <img align="left" alt="LucasBoonde's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LucasBoonde&show_icons=true&hide_border=true" />
+
+<a href="https://app.daily.dev/lucasbonde"><img src="https://api.daily.dev/devcards/v2/eUUamhLv42rZcYkqJZBk6.png?type=default&r=1of" width="356" alt="Lucas Bonde's Dev Card"/></a>
